@@ -1,0 +1,5 @@
+test_data_path: data/nerf_synthetic/test
+train_data_path: data/nerf_synthetic/train
+dataset_type: 'blender'
+
+# config copy from config_lego in nerf project
